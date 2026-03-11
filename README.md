@@ -1,2 +1,12 @@
-# Heart Disease Prediction Modelling
-A JavaFX-based desktop To-Do List application that allows users to add, edit, and delete tasks with priorities and deadlines. Tasks are saved to a JSON file for persistence, and the GUI provides an intuitive way to manage daily activities.
+Heart Disease Prediction Model
+
+This project builds a beginner-level machine learning model to predict the likelihood of heart disease using medical data.
+
+The model uses Logistic Regression and evaluates performance using accuracy and a confusion matrix.
+
+Key Features
+- Data exploration using Pandas
+- Logistic Regression classification model
+- Accuracy evaluation
+- Confusion matrix analysis
+- Data visualization using Matplotlib
